@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/BLOG-MAYANK%20JETHVA-brightgreen.svg"></img>
+
 # Welcome To My Blog
 
 <p align="center">
