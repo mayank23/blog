@@ -10,8 +10,8 @@
 
 ## Posts
 
-[1. Introducing a fully extendable eslint plugin for JSON i18n translation files.](https://github.com/mayank23/blog/issues/1) 
-[2. Secrets, GPG, BlackBox, and Docker - an Experimental Approach](https://github.com/mayank23/blog/issues/4)
+- [1. Introducing a fully extendable eslint plugin for JSON i18n translation files.](https://github.com/mayank23/blog/issues/1) 
+- [2. Secrets, GPG, BlackBox, and Docker - an Experimental Approach](https://github.com/mayank23/blog/issues/4)
 
 ---
 
