@@ -1,6 +1,4 @@
-<img src="https://img.shields.io/badge/BLOG-MAYANK%20JETHVA-brightgreen.svg"></img>
-
-# Welcome To My Blog
+# Welcome
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/1103708/60845620-8767a000-a1a2-11e9-8aa8-50dfdab0033b.png" width="300"/>
@@ -8,13 +6,10 @@
 
 > Checkout the issues tab to see all blog posts. :smile:
 
-## Posts
+## About Me
 
-- [1. Introducing a fully extendable eslint plugin for JSON i18n translation files.](https://github.com/mayank23/blog/issues/1) 
-- [2. Secrets, GPG, BlackBox, and Docker - an Experimental Approach](https://github.com/mayank23/blog/issues/4)
+- [Click here to learn more about me](https://github.com/mayank23/blog/issues/3)
 
----
+## Blog
 
-#### Asset Sources
-
-- [undraw.co](https://undraw.co/)
+- [See my blog posts](https://github.com/mayank23/blog/issues)
