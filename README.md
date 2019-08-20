@@ -1,7 +1,5 @@
-# Mayank Jethva
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/1103708/63391711-6335dc00-c368-11e9-8fcd-cdd58eedda5e.png" width="500"/>
+  <img src="https://user-images.githubusercontent.com/1103708/63392267-caed2680-c36a-11e9-9072-423ba90cfe50.png" width="600"/>
 </p>
 
 ## [About Me](https://github.com/mayank23/blog/issues/3)
