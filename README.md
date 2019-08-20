@@ -6,7 +6,7 @@
 
 ## About Me
 
-- [Click here to learn more about me](https://github.com/mayank23/blog/issues/3)
+- [Learn more about me](https://github.com/mayank23/blog/issues/3)
 
 ## Blog
 
