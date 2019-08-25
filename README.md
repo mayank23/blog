@@ -10,3 +10,4 @@
 
 ## [Blog](https://github.com/mayank23/blog/issues)
 
+## [Photography Blog](https://github.com/mayank23/photography-blog/issues)
